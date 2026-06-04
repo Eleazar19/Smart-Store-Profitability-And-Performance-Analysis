@@ -45,4 +45,13 @@ The analysis was conducted from a management decision-making perspective, focusi
 -	Branch performance 
 -	City performance 
 -	Customer segment contribution 
--	Sales volume impact on profit 
+-	Sales volume impact on profit
+
+
+##Dashboard
+<img width="1204" height="549" alt="New project" src="https://github.com/user-attachments/assets/a38d103e-f119-41aa-92cf-d8458b87b85f" />
+
+
+
+
+
