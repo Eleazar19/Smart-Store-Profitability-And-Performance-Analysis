@@ -26,15 +26,15 @@ Used several advanced excel functions and formulas to uncover hidden matrices.
 
 
 ## Business Problem
-The business needed to understand:
-•	Is the business generating enough profit relative to its total revenue?
-•	Which product categories contribute the least to total profit?
-•	Are there products generating high revenue but low profit?
-•	Which store branches are least profitable despite similar sales volumes?
-•	Are some cities significantly less profitable than others?
-•	Do certain customer types (e.g., Normal vs Member) generate lower profit?
-•	Are profit margins consistent across products category, or do they vary significantly? 
-•	Does selling more quantity always result in higher profit
+### The business needed to understand:
+-	Is the business generating enough profit relative to its total revenue?
+-	Which product categories contribute the least to total profit?
+-	Are there products generating high revenue but low profit?
+-	Which store branches are least profitable despite similar sales volumes?
+-	Are some cities significantly less profitable than others?
+-	Do certain customer types (e.g., Normal vs Member) generate lower profit?
+-	Are profit margins consistent across products category, or do they vary significantly? 
+-	Does selling more quantity always result in higher profit
 
 
 
