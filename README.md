@@ -21,3 +21,28 @@ The analysis was conducted from a management decision-making perspective, focusi
 -	Do certain customer types (e.g., Normal vs Member) generate lower profit?
 -	Are profit margins consistent across products category, or do they vary significantly? 
 -	Does selling more quantity always result in higher profit
+
+
+## Methodology
+### The project involved:
+#### Data Preparation
+-	Data cleaning and transformation using Power Query. 
+-	Creation of a calendar table for time-based analysis. 
+-	Data modeling and relationship management. 
+#### DAX Calculations
+##### Custom measures were created for:
+-	Total Revenue
+-	Total Cost of Goods Sold 
+-	Real Profit 
+-	Profit Margin 
+-	Cost Margin 
+-	Profit Contribution % 
+
+#### Dashboard Development
+##### An interactive Power BI dashboard was developed to enable business users to explore:
+-	Profitability performance 
+-	Product category contribution 
+-	Branch performance 
+-	City performance 
+-	Customer segment contribution 
+-	Sales volume impact on profit 
