@@ -9,7 +9,8 @@ The analysis was conducted from a management decision-making perspective, focusi
 
 
 ## Project Dataset  
-[Dataset](https://github.com/Eleazar19/Smart-store-sales-report/blob/main/Smart%20store%20sales%20data.xlsx)
+[Dataset](https://github.com/Eleazar19/Smart-Store-Profitability-And-Performance-Analysis/blob/main/Smart%20store%20sales%20data.xlsx)
+
 
 ## Tools and Methodology:
 
