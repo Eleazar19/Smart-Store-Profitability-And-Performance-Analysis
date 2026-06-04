@@ -48,6 +48,7 @@ The analysis was conducted from a management decision-making perspective, focusi
 -	Sales volume impact on profit
 
 
+
 ## Dashboard
 <img width="1204" height="549" alt="New project" src="https://github.com/user-attachments/assets/a38d103e-f119-41aa-92cf-d8458b87b85f" />
 
@@ -126,7 +127,7 @@ Since the strong performance in profit is largely driven by low cost of goods so
 
 ## Value Delivered
 
-Developed an end-to-end business profitability intelligence solution that empowered decision-makers with visibility into the organization's financial performance. The analysis identified key profit drivers, evaluated revenue-to-profit conversion across product categories, measured branch and city-level profitability efficiency, assessed customer segment contribution, and highlighted areas for performance improvement.
+Developed an end-to-end business profitability intelligence solution that empoweres decision-makers with visibility into the organization's financial performance. The analysis identified key profit drivers, evaluated revenue-to-profit conversion across product categories, measured branch and city-level profitability efficiency, assessed customer segment contribution, and highlighted areas for performance improvement.
 
 The project delivered actionable recommendations aimed at strengthening profitability, improving operational efficiency, enhancing customer value, and supporting strategic growth initiatives. By transforming transactional sales data into executive-level insights, the solution enables management to make evidence-based decisions that drive long-term business performance and profitability.
 
