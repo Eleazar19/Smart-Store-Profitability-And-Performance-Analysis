@@ -107,3 +107,27 @@ Since the strong performance in profit is largely driven by low cost of goods so
 ### Sales Volume Expansion
 - The business should maintain strong sales momentum in high-performing product categories through effective pricing, product availability, and targeted promotions. Additionally, strategies aimed at improving sales volume in lower-performing categories, such as Health & Beauty, may help strengthen their overall profit contribution.
 
+
+## Skills Demonstrated
+
+### Business Skills
+-	Insight Generation 
+-	Recommendation Development 
+-	Executive Reporting 
+-	Decision Support Analytics 
+
+### Technical Skills
+-	DAX 
+-	Power Query 
+-	Data Modeling 
+-	Data Transformation 
+- Time Intelligence 
+
+
+## Value Delivered
+
+Developed an end-to-end business profitability intelligence solution that empowered decision-makers with visibility into the organization's financial performance. The analysis identified key profit drivers, evaluated revenue-to-profit conversion across product categories, measured branch and city-level profitability efficiency, assessed customer segment contribution, and highlighted areas for performance improvement.
+
+The project delivered actionable recommendations aimed at strengthening profitability, improving operational efficiency, enhancing customer value, and supporting strategic growth initiatives. By transforming transactional sales data into executive-level insights, the solution enables management to make evidence-based decisions that drive long-term business performance and profitability.
+
+
