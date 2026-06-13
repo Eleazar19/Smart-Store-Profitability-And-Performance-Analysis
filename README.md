@@ -20,7 +20,7 @@ The analysis was conducted from a management decision-making perspective, focusi
 -	Are some cities significantly less profitable than others?
 -	Do certain customer types (e.g., Normal vs Member) generate lower profit?
 -	Are profit margins consistent across products category, or do they vary significantly? 
--	Does selling more quantity always result in higher profit
+-	Does selling more quantity always result in higher profit?
 
 
 ## Methodology
