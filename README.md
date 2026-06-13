@@ -33,7 +33,7 @@ The analysis was conducted from a management decision-making perspective, focusi
 ##### Custom measures were created for:
 -	Total Revenue
 -	Total Cost of Goods Sold 
--	Real Profit 
+-	Net Profit 
 -	Profit Margin 
 -	Cost Margin 
 -	Profit Contribution % 
