@@ -1,7 +1,7 @@
 # Smart Store Profitability and Performance Analysis
 
 
-## Project Overview:
+## Project Overview
 
 This project analyzes the profitability performance of a multi-branch retail business using Power BI. The objective was to evaluate how effectively revenue is converted into profit, identify key profit drivers, assess the profitability of product categories, branches, cities, and customer segments, and provide actionable recommendations for improving business performance.
 The analysis was conducted from a management decision-making perspective, focusing on profitability optimization, operational efficiency, and revenue-to-profit conversion.
