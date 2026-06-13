@@ -105,7 +105,7 @@ The analysis was conducted from a management decision-making perspective, focusi
 - The business should strengthen engagement strategies targeted at Normal customers to improve their overall profit contribution. Additionally, maintaining the strong profitability performance of Member customers through continued customer retention and loyalty-focused initiatives can support sustained profit growth.
 
 ### Margin Sustainability
-- As data have revealed a relatively consistent profit margin across product category and likely reducing the existence of a widening profit margin. The business should focus on consolidating and sustaining this margin through broader optimal operational efficiency and customer retention approaches.
+- As data have revealed a relatively consistent profit margin across product category and likely reducing the existence of a widening profit margin. The business should focus on sustaining this margin through broader optimal operational efficiency and customer retention approaches.
 
 ### Sales Volume Expansion
 - The business should maintain strong sales momentum in high-performing product categories through effective pricing, product availability, and targeted promotions. Additionally, strategies aimed at improving sales volume in lower-performing categories, such as Health & Beauty, may help strengthen their overall profit contribution.
