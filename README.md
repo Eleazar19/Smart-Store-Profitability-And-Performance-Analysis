@@ -83,8 +83,10 @@ The analysis was conducted from a management decision-making perspective, focusi
 
 ## Strategic Recommendations
 ### Based on the analysis, the following recommendations were proposed:
-- Cost Management
-Since the strong performance in profit is largely driven by low cost of goods sold, the business should focus on maintaining cost efficiency on cost of goods sold which has the capacity of sustaining its current profit margin, which might give room to further uptick in profit.
+
+
+### Cost Management
+- Since the strong performance in profit is largely driven by low cost of goods sold, the business should focus on maintaining cost efficiency on cost of goods sold which has the capacity of sustaining its current profit margin, which might give room to further uptick in profit.
 
 
 ### Product Category Optimization
